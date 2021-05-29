@@ -1,6 +1,6 @@
 # Data Structures
 
-Basic data structures.
+Basic data structures. For comparision created as a `class` and a `function`.
 
 - TODO: Linked List
 - Queue
