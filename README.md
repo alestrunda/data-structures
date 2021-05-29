@@ -3,7 +3,7 @@
 Basic data structures.
 
 - TODO: Linked List
-- TODO: Queue
+- Queue
   - enqueue
   - dequeue
   - length
