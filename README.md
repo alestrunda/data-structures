@@ -2,7 +2,15 @@
 
 Basic data structures. For comparision created as a `class` and a `function`.
 
-- TODO: Linked List
+- TODO: Binary Tree
+- TODO: Binary Search Tree
+- TODO: Hash Table
+- Linked List
+  - delete
+  - insert
+  - insertAfter
+  - search
+  - traverse
 - Queue
   - enqueue
   - dequeue
